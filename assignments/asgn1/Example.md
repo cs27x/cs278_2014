@@ -1,4 +1,4 @@
-# Assignment 1 Example
+# The Random Fun Generator
 
 ## Overview
 
