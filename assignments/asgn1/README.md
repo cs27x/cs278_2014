@@ -2,20 +2,19 @@
 
 ## Overview
 
-Writing clear requirements and dealing with ambiguous requirements is a challenging
-component of software engineering. A key problem that often arises in software projects
+A key problem  that often arises in software projects
 is that the requirements for the project are not communicated clearly or that the 
 development team makes incorrect assumptions about the requirements. This assignment
 will teach you to both write a clear requirement description for a piece of software
 and to ask questions when the requirements are ambiguous.
 
-For this assignment, you will be writing a requirement spec for a small piece of software.
-You will also be creating a set of evaluation rubrics to assess an implementation of your
+For this assignment, you will write a requirement spec for a small piece of software.
+You will also create a set of evaluation rubrics to assess an implementation of your
 spec. Your spec will be assigned to another team in the class and your evaluation rubrics
 will be applied by other teams to the implementing team's final product. You will be graded
 on the clarity, quality, and other criteria of your spec. You will also be graded on the
-quality of your implementation of the spec that you are assigned and how well you deal
-with any requirements ambiguities.
+quality of your implementation of another team's spec that you will be assigned and how 
+well you deal with any requirements ambiguities.
 
 ## Assignment Components
 
