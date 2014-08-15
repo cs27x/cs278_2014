@@ -60,20 +60,8 @@ __To be completed at Team Meeting 1 (by the end of class)__
    time allotted. 
    - (Z points) - User Story - Description of how to apply rubric 
    
-   Examples:
-   - (10 points) - User Story #23, As a Vanderbilt Student, I would like to see a
-     random list of things to do around Nashville so that I can do something new each
-     weekend - When the application is 
-     invoked from the command line in 10 repeated trials, the output should not 
-     include the same suggested things to do each time. The code should be inspected
-     to ensure that a random number is being used to drive the selection of things
-     to do. 
-   - (10 points) - User Story #43, As a Vanderbilt Student, I would like to be able to
-     download  a new list of Nashville events from data.nashville.gov so that I don't run 
-     out of things to do or miss newly announced events - The user should be able to export,
-     the list of special event permits from https://data.nashville.gov/Environment/Parks-Special-Events-Permits-Data-2014-/vygj-v677
-     and provide the exported file as a parameter to the application. When invoked the
-     application should choose events from this list.
+    For examples, see: 
+    https://github.com/cs27x/cs278_2014/blob/master/assignments/asgn1/Example.md
 	
 	You are also free to add other criteria to the grading, such as the use of consistent
 	formatting, naming, Java best practices, etc. However, you must define these things
