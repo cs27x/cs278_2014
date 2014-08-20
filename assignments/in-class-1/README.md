@@ -11,9 +11,13 @@ already be familiar with Eclipse basics from past courses.
 ## Key Information
 
 Released: 8-21-14
+
 Due Date: 8-21-14
+
 Close Time: 12:25
+
 Requires Group Completion: Yes
+
 Total Groups: 4
 
 ## Step 0 - Setup Your Assignment
