@@ -8,6 +8,14 @@ assignments will be in Java. This exercise will introduce you to the key tools t
 we will be using: Eclipse, Gradle, Git, the Eclipse Debugger, and JUnit. You should
 already be familiar with Eclipse basics from past courses.
 
+## Key Information
+
+Released: 8-21-14
+Due Date: 8-21-14
+Close Time: 12:25
+Requires Group Completion: Yes
+Total Groups: 4
+
 ## Step 0 - Setup Your Assignment
 
 Since the last class, you should have setup a development environment with Eclipse,
