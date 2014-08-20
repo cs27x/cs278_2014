@@ -7,8 +7,16 @@ import retrofit.http.Path;
 
 public interface ScoreBoardApi {
 
+	public static final String ASGN_PATH_PARAM = "asgn";
+	public static final String STUDENT_PATH_PARAM = "student";
+	public static final String STEP_PARAM = "step";
+	public static final String STEP_PATH_PARAM = STEP_PARAM;
+	public static final String STUDENT_COMPLETED_PATH = "/asgn/inclass-1/student/{student}/completed";
+	
 	@FormUrlEncoded
-	@POST("/asgn/in-class/1/student/{student}/completed")
-	public String completed(@Path("student") String student, @Field("step") int step);
+	@POST(STUDENT_COMPLETED_PATH)
+	public String completed(
+			@Path(STUDENT_PATH_PARAM) String student,
+			@Field(STEP_PARAM) int step);
 	
 }
