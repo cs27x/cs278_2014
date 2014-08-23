@@ -17,7 +17,7 @@ public class BootstrapTest {
 
 	private ScoreBoardApi scoreBoard = 
 			new RestAdapter.Builder()
-				.setEndpoint("http://localhost:8080")
+				.setEndpoint("http://cs278.magnum.io")
 				.build()
 				.create(ScoreBoardApi.class);
 	
