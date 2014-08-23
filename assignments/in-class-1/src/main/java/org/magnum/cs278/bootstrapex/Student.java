@@ -15,6 +15,7 @@ public class Student {
 	// By changing this variable to true, you are stating per the honor code
 	// that
 	// you are currently in class and working on this assignment
+        // and everyone in your group will vouch for you
 	private final boolean iAmInClass = false;
 
 	public String getName() {
