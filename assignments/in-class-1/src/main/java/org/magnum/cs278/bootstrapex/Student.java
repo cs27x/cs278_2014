@@ -4,7 +4,7 @@ public class Student {
 
 	// Change this to your full name as it appears in YES separated
 	// by a comma with no spaces between the command and the firstname (Bob):
-	private final String name = "White,Jules";
+	private final String name = "Jones,Bob";
 
 	// By changing this variable to true, you agree to adhere to the honor code
 	// and that you will only change the "in class" variable to true if you are
@@ -15,6 +15,7 @@ public class Student {
 	// By changing this variable to true, you are stating per the honor code
 	// that
 	// you are currently in class and working on this assignment
+        // and everyone in your group will vouch for you
 	private final boolean iAmInClass = false;
 
 	public String getName() {
