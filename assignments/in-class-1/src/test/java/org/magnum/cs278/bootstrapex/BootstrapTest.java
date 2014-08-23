@@ -37,7 +37,7 @@ public class BootstrapTest {
 		// By running this test, you have pulled off step 2!
 		assertTrue(true);
 		
-		scoreBoard.completed(new Student().getName(), 2);
+		scoreBoard.completed(new Student().getName(), 1);
 	}
 	
 	@Test
@@ -45,7 +45,7 @@ public class BootstrapTest {
 		Class<?> c = Class.forName("net.sf.cglib.proxy.Callback");
 		assertNotNull(c);
 		
-		scoreBoard.completed(new Student().getName(), 1);
+		scoreBoard.completed(new Student().getName(), 2);
 	}
 	
 	@Test

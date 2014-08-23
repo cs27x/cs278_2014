@@ -11,7 +11,7 @@ public interface ScoreBoardApi {
 	public static final String STUDENT_PATH_PARAM = "student";
 	public static final String STEP_PARAM = "step";
 	public static final String STEP_PATH_PARAM = STEP_PARAM;
-	public static final String STUDENT_COMPLETED_PATH = "/asgn/inclass-1/student/{student}/completed";
+	public static final String STUDENT_COMPLETED_PATH = "/asgn/in-class-1/student/{student}/completed";
 	
 	@FormUrlEncoded
 	@POST(STUDENT_COMPLETED_PATH)
