@@ -20,6 +20,12 @@ Requires Group Completion: Yes
 
 Total Groups: 4
 
+## Dashboard and Team Requirements
+
+If you are viewing this README on GitHub or in Eclipse, open your browser to the
+assignment dashboard: [http://cs278.magnum.io/view/dashboard/dashboard.html]
+
+
 ## Step 0 - Setup Your Assignment
 
 Since the last class, you should have setup a development environment with Eclipse,
