@@ -8,11 +8,26 @@ assignments will be in Java. This exercise will introduce you to the key tools t
 we will be using: Eclipse, Gradle, Git, the Eclipse Debugger, and JUnit. You should
 already be familiar with Eclipse basics from past courses.
 
+Most real-world software engineering is done in teams. A team must work together to 
+succeed. Team members must not only work hard themselves, but help other teammates
+out as needed.
+
+You have been assigned to a group for this in-class assignment. You can see your group
+by going to [https://cs278.magnum.io/view/dashboard/dashboard.html]. You will be
+provided with the login credentials for the dashboard in class. Please login, enter
+your name as it appear in YES, and then go to the team page for the members of your
+team. 
+
+Each member of each group needs to complete the assignment. The group is responsible
+for ensuring that all team members both complete the in-class assignment and understand
+the material. Each team should derive a process for making sure that everyone in the
+group both completes the assignment and understands the material. 
+
 ## Key Information
 
-Released: 8-21-14
+Released: 8-26-14
 
-Due Date: 8-21-14
+Due Date: 8-26-14
 
 Close Time: 12:25
 
@@ -61,7 +76,7 @@ what Gradle does for you, and how you use Gradle to increase your productivity.
 
 __Gradle Project Structure__ - Gradle expects all of your code to be in a folder
 with sub folders following the following format:
-  - __project_dir/ __
+  - __project_dir/__
     
     Every project should have a root directory that it lives beneath. 
   
@@ -77,7 +92,7 @@ with sub folders following the following format:
     
     project_dir/src/main/java/org/cs278/Foo.java
   
-  - __project_dir/src/test/java
+  - __project_dir/src/test/java__
   
     This folder contains the tests, such as JUnit tests, for your source code. 
     

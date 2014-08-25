@@ -12,12 +12,14 @@ import org.junit.Test;
 import org.magnum.cs278.scoring.ScoreBoardApi;
 
 import retrofit.RestAdapter;
+import retrofit.client.ApacheClient;
 
 public class BootstrapTest {
 
 	private ScoreBoardApi scoreBoard = 
 			new RestAdapter.Builder()
-				.setEndpoint("http://cs278.magnum.io")
+				.setClient(new ApacheClient(UnsafeHttpsClient.createUnsafeClient()))
+				.setEndpoint("https://cs278.magnum.io")
 				.build()
 				.create(ScoreBoardApi.class);
 	
