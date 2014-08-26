@@ -3,7 +3,7 @@ package org.magnum.cs278.bootstrapex;
 public class Student {
 
 	// Change this to your full name as it appears in YES separated
-	// by a comma with no spaces between the command and the firstname (Bob):
+	// by a comma with no spaces between the last name (Jones) and the first name (Bob):
 	private final String name = "Jones,Bob";
 
 	// By changing this variable to true, you agree to adhere to the honor code
