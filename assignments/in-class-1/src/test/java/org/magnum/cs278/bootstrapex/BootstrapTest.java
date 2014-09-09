@@ -54,8 +54,8 @@ public class BootstrapTest {
 	public void testStep3(){
 		
 		// Update me!
-		Class<?> thrower = null;
-		int line = -1;
+		Class<?> thrower = org.magnum.cs278.bootstrapex.ReflectionUtils.class;
+		int line = 89;
 		
 		try{
 			App.main(null);
