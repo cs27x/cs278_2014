@@ -4,7 +4,7 @@ public class Student {
 
 	// Change this to your full name as it appears in YES separated
 	// by a comma with no spaces between the last name (Jones) and the first name (Bob):
-	private final String name = "Lu,MingYang";
+	private final String name = "White,Jules";
 
 	// By changing this variable to true, you agree to adhere to the honor code
 	// and that you will only change the "in class" variable to true if you are

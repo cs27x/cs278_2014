@@ -66,7 +66,7 @@ public class ReflectionUtils implements InvocationHandler {
 			} else if (method.getDeclaringClass().equals(ReflectionUtils.class)) {
 				result = doConfigurationDelegation(method, args);
 			} else {
-				method_ = method;
+				method = method;
 			}
 		} catch (Exception e) {
 			e.printStackTrace();
