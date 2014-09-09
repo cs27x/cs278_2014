@@ -15,9 +15,10 @@ Due Date: 9-9-14
 
 Close Time: 12:25
 
+Total Groups: 6
+
 Requires Group Completion: Yes
 
-Total Groups: 6
 
 ## Part 1 - Specification Design
 
