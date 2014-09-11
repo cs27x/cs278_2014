@@ -1,5 +1,7 @@
 # In-class Assignment 3
 
+## Overview
+
 In this assignment, you will practice writing requirements. Writing a clear requirement
 specification is one of the most difficult challenges in software engineering. It is almost
 inevitable that requirements are misunderstood and that wrong assumptions are made.
@@ -15,9 +17,10 @@ Due Date: 9-9-14
 
 Close Time: 12:25
 
+Total Groups: 6
+
 Requires Group Completion: Yes
 
-Total Groups: 6
 
 ## Part 1 - Specification Design
 
