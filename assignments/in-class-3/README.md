@@ -99,10 +99,10 @@ grading criteria, and effort estimations that have been provided to you:
 
 https://docs.google.com/forms/d/1Wq-6JWAz8SdTZQ82zUfMPJxSCTXErh4quR8GR36HfOk/viewform?usp=send_form
 
-You have 50min to complete the review of the other team's design. At the end of the 50min,
+You have 40min to complete the review of the other team's design. At the end of the 40min,
 the teams will have 20min to discuss their evaluations with each other and seek clarification
 on important issues. Make sure that you do a thorough job of completing the above form
 as this will be the basis for the instructor's assessment of the complexity and clarity
-of the assignment and hence determine when you get started and how long you have.
+of the assignment and hence determine when you get started and how long you have. 
 
 
