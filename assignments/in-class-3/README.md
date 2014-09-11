@@ -88,5 +88,18 @@ __At the end of class, hand-in the user stories, paper prototypes, estimate card
 any unclear user story cards. Include a separate "cover card" that lists your team number
 and the members in your group.__
 
+## Part 4 - Implementation
+
+You have been assigned to implement the user stories and paper prototype provided to you as 
+your first out of class assignment. Please use the following form to evaluate the design,
+grading criteria, and effort estimations that have been provided to you:
+
+https://docs.google.com/forms/d/1Wq-6JWAz8SdTZQ82zUfMPJxSCTXErh4quR8GR36HfOk/viewform?usp=send_form
+
+You have 50min to complete the review of the other team's design. At the end of the 50min,
+the teams will have 20min to discuss their evaluations with each other and seek clarification
+on important issues. Make sure that you do a thorough job of completing the above form
+as this will be the basis for the instructor's assessment of the complexity and clarity
+of the assignment and hence determine when you get started and how long you have.
 
 
