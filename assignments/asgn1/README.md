@@ -59,8 +59,8 @@ __To be completed at Team Meeting 1 (by the end of class)__
 3. Write a set of evaluation rubrics for assessing the quality of the implementation 
    produced for your assignment. Each rubric should provide a simple test plan for
    determining if one or more of the user stories are properly satisfied. You should
-   commit the evaluation rubric under /asgnX/assignment_spec/evaluation.md within the
-   time allotted. The spec should use proper GitHub markdown formatting.
+   include the evaluation rubric in your spec. The rubrics should use proper GitHub 
+   markdown formatting.
    
    - (Z points) - User Story - Description of how to apply rubric 
    
