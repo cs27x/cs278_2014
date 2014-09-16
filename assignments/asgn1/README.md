@@ -168,7 +168,8 @@ __To be completed before Team Meeting 4 (start as soon as your get your specific
    
    __Graduate Students__ must use a tool, such as JaCoCo, to produce an automated code
    coverage report of their team's project. If there are multiple graduate students on a 
-   team, each student must generate a separate code coverage report. 
+   team, each student must generate a separate code coverage report. These reports should
+   be saved as PDFs and checked into /asgnX/assigned_project/coverage/.
      
 10. When team members discover issues with other team members' code (or critical code that
     is needed has not been committed), a team member should submit a new issue in the
