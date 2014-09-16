@@ -37,13 +37,13 @@ __To be completed at Team Meeting 1 (by the end of class)__
    Java. It will be possible to propose extensions to the MVP in future development 
    cycles but your spec __must lead to a complete MVP within 1-week__.
 
-2. Write a requirements specification for your chosen application. The requirements must 
+2. Write a requirements specification in GitHub markdown for your chosen application. The requirements must 
    include a 2-3 paragraph overview description (e.g., "An application that will automatically
    return three random things to do this weekend based on park permits") and include a
    detailed set of user stories. For each user story, provide an expected time to complete
    it in hours (e.g., 0.5 hours). Your initial draft of the specification should be 
    completed by the end of the time allotted and checked into your GitHub repository 
-   under the /asgnX/assignment_spec folder as spec.pdf. Your specification should
+   under the /asgnX/assignment_spec folder as spec.md. Your specification should
    include the names of each author (only include people present in class when you created
    the specification). The following are helpful resources on writing good user stories:
    - https://help.rallydev.com/writing-great-user-story
