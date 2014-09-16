@@ -37,6 +37,9 @@ __To be completed at Team Meeting 1 (by the end of class)__
    Java. It will be possible to propose extensions to the MVP in future development 
    cycles but your spec __must lead to a complete MVP within 1-week__.
 
+   After you have your application idea ready and a basic list of the MVP functionality, 
+   you must present your application to one of the instructors before proceeding.
+
 2. Write a requirements specification in GitHub markdown for your chosen application. The requirements must 
    include a 2-3 paragraph overview description (e.g., "An application that will automatically
    return three random things to do this weekend based on park permits") and include a
@@ -55,6 +58,9 @@ __To be completed at Team Meeting 1 (by the end of class)__
    
    An example of a complete specification is available from: 
    https://github.com/cs27x/cs278_2014/blob/master/assignments/asgn1/Example.md
+
+   After you create your list of user stories, you must present your user stories to one 
+   of the instructors before proceeding.
    
 3. Write a set of evaluation rubrics for assessing the quality of the implementation 
    produced for your assignment. Each rubric should provide a simple test plan for
@@ -73,6 +79,9 @@ __To be completed at Team Meeting 1 (by the end of class)__
 	
 	An example of a complete evaluation rubric is available from: 
     https://github.com/cs27x/cs278_2014/blob/master/assignments/asgn1/Example.md
+
+   After you create your evaluation rubrics, you must present your rubrics to one 
+   of the instructors to receive credit for the spec.
 
 __To be completed at Team Meeting 2 (by the end of class)__
 
