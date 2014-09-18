@@ -90,6 +90,8 @@ __To be completed at Team Meeting 2 (by the end of class)__
    that your team reviews: https://docs.google.com/forms/d/1GeNlEvDGzIX2vTAnokMDuWJg7XZNXZQHMjQ-b7zx764/viewform?usp=send_form
    
    You have 30min (or 6min per spec) to complete the two reviews. 
+
+   Review results: https://docs.google.com/spreadsheets/d/1_1kMD9sTkLfit3rl54-E7nbFzfidmjFKstxliIpxkCI/edit?usp=sharing
      
 5. After you have been assigned another team's spec to implement, download their spec
    and evaluation pdfs from their GitHub repo and place them into your repo's 
