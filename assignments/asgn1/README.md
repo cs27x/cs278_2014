@@ -89,13 +89,13 @@ __To be completed at Team Meeting 2 (by the end of class)__
    evaluation rubrics. You should fill out a specification evaluation for each spec
    that your team reviews: https://docs.google.com/forms/d/1GeNlEvDGzIX2vTAnokMDuWJg7XZNXZQHMjQ-b7zx764/viewform?usp=send_form
    
-   You have 30min (or 6min per spec) to complete the two reviews.
+   You have 30min (or 6min per spec) to complete the two reviews. 
      
 5. After you have been assigned another team's spec to implement, download their spec
    and evaluation pdfs from their GitHub repo and place them into your repo's 
    /asgnX/assigned_project/spec folder. 
    
-   You have 55min to review the spec that your team will be implementing, clarify any
+   You have 45min to review the spec that your team will be implementing, clarify any
    descriptions with the other team, request requirement changes, and begin planning
    your development approach/workload. 
    
