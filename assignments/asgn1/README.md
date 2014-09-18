@@ -85,11 +85,11 @@ __To be completed at Team Meeting 1 (by the end of class)__
 
 __To be completed at Team Meeting 2 (by the end of class)__
 
-4. During Team Meeting 2, you must review two other team's specs and
+4. During Team Meeting 2, you must review every other team's spec and
    evaluation rubrics. You should fill out a specification evaluation for each spec
    that your team reviews: https://docs.google.com/forms/d/1GeNlEvDGzIX2vTAnokMDuWJg7XZNXZQHMjQ-b7zx764/viewform?usp=send_form
    
-   You have 20min to complete the two reviews.
+   You have 30min (or 6min per spec) to complete the two reviews.
      
 5. After you have been assigned another team's spec to implement, download their spec
    and evaluation pdfs from their GitHub repo and place them into your repo's 
