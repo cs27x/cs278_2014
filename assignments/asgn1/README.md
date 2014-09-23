@@ -218,6 +218,8 @@ __To be completed at Team Meeting 3 (by the end of class)__
    you will be assigned and fill in the incremental progress report on that team: 
    https://docs.google.com/forms/d/1XhtF5rPNZKXsYkk51hCKxYDBH1Ru3rJWBLuFlJOUSNY/viewform?usp=send_form
 
+   Reviews: https://docs.google.com/spreadsheets/d/1bVnlrgjqhOOkIHYHo4vOM_-hq5qomWxpa9YNTuQhNPI/edit?usp=sharing
+
 __To be completed at Team Meeting 4 (by the end of class)__
 
 12. During the "implementation evaluation" class, your team must evaluate the implementations
