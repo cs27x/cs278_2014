@@ -230,10 +230,7 @@ __To be completed at Team Meeting 4 (by the end of class)__
 
 13. For each team, your team must evaluate the
    teamwork and individual contributions of the team members on both their spec and implementation.
-   For each team member, you must fill out the contribution assessment form provided to you.
    
-14. During the "teamwork and contribution evaluation" class, you must evaluate your own
-    personal performance on the spec and implementation using the form provided to you.
     
 ## Assignment Grading
 
