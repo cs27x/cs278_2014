@@ -37,13 +37,16 @@ __To be completed at Team Meeting 1 (by the end of class)__
    Java. It will be possible to propose extensions to the MVP in future development 
    cycles but your spec __must lead to a complete MVP within 1-week__.
 
-2. Write a requirements specification for your chosen application. The requirements must 
+   After you have your application idea ready and a basic list of the MVP functionality, 
+   you must present your application to one of the instructors before proceeding.
+
+2. Write a requirements specification in GitHub markdown for your chosen application. The requirements must 
    include a 2-3 paragraph overview description (e.g., "An application that will automatically
    return three random things to do this weekend based on park permits") and include a
    detailed set of user stories. For each user story, provide an expected time to complete
    it in hours (e.g., 0.5 hours). Your initial draft of the specification should be 
    completed by the end of the time allotted and checked into your GitHub repository 
-   under the /asgnX/assignment_spec folder as spec.pdf. Your specification should
+   under the /asgnX/assignment_spec folder as spec.md. Your specification should
    include the names of each author (only include people present in class when you created
    the specification). The following are helpful resources on writing good user stories:
    - https://help.rallydev.com/writing-great-user-story
@@ -55,12 +58,15 @@ __To be completed at Team Meeting 1 (by the end of class)__
    
    An example of a complete specification is available from: 
    https://github.com/cs27x/cs278_2014/blob/master/assignments/asgn1/Example.md
+
+   After you create your list of user stories, you must present your user stories to one 
+   of the instructors before proceeding.
    
 3. Write a set of evaluation rubrics for assessing the quality of the implementation 
    produced for your assignment. Each rubric should provide a simple test plan for
    determining if one or more of the user stories are properly satisfied. You should
-   commit the evaluation rubric under /asgnX/assignment_spec/evaluation.md within the
-   time allotted. The spec should use proper GitHub markdown formatting.
+   include the evaluation rubric in your spec. The rubrics should use proper GitHub 
+   markdown formatting.
    
    - (Z points) - User Story - Description of how to apply rubric 
    
@@ -74,19 +80,24 @@ __To be completed at Team Meeting 1 (by the end of class)__
 	An example of a complete evaluation rubric is available from: 
     https://github.com/cs27x/cs278_2014/blob/master/assignments/asgn1/Example.md
 
+   After you create your evaluation rubrics, you must present your rubrics to one 
+   of the instructors to receive credit for the spec.
+
 __To be completed at Team Meeting 2 (by the end of class)__
 
-4. During Team Meeting 2, you must review two other team's specs and
+4. During Team Meeting 2, you must review every other team's spec and
    evaluation rubrics. You should fill out a specification evaluation for each spec
    that your team reviews: https://docs.google.com/forms/d/1GeNlEvDGzIX2vTAnokMDuWJg7XZNXZQHMjQ-b7zx764/viewform?usp=send_form
    
-   You have 20min to complete the two reviews.
+   You have 30min (or 6min per spec) to complete the two reviews. 
+
+   Review results: https://docs.google.com/spreadsheets/d/1_1kMD9sTkLfit3rl54-E7nbFzfidmjFKstxliIpxkCI/edit?usp=sharing
      
 5. After you have been assigned another team's spec to implement, download their spec
    and evaluation pdfs from their GitHub repo and place them into your repo's 
    /asgnX/assigned_project/spec folder. 
    
-   You have 55min to review the spec that your team will be implementing, clarify any
+   You have 45min to review the spec that your team will be implementing, clarify any
    descriptions with the other team, request requirement changes, and begin planning
    your development approach/workload. 
    
@@ -159,7 +170,8 @@ __To be completed before Team Meeting 4 (start as soon as your get your specific
    
    __Graduate Students__ must use a tool, such as JaCoCo, to produce an automated code
    coverage report of their team's project. If there are multiple graduate students on a 
-   team, each student must generate a separate code coverage report. 
+   team, each student must generate a separate code coverage report. These reports should
+   be saved as PDFs and checked into /asgnX/assigned_project/coverage/.
      
 10. When team members discover issues with other team members' code (or critical code that
     is needed has not been committed), a team member should submit a new issue in the
@@ -206,20 +218,19 @@ __To be completed at Team Meeting 3 (by the end of class)__
    you will be assigned and fill in the incremental progress report on that team: 
    https://docs.google.com/forms/d/1XhtF5rPNZKXsYkk51hCKxYDBH1Ru3rJWBLuFlJOUSNY/viewform?usp=send_form
 
+   Reviews: https://docs.google.com/spreadsheets/d/1bVnlrgjqhOOkIHYHo4vOM_-hq5qomWxpa9YNTuQhNPI/edit?usp=sharing
+
 __To be completed at Team Meeting 4 (by the end of class)__
 
 12. During the "implementation evaluation" class, your team must evaluate the implementations
    of three other teams on a spec that you did not create. For each evaluation, you should
    obtain the spec and evaluation criteria from GitHub, review the implementation, and
    then fill out the implementation evaluation form: 
-   https://docs.google.com/forms/d/1Wq-6JWAz8SdTZQ82zUfMPJxSCTXErh4quR8GR36HfOk/viewform?usp=send_form    
+   https://docs.google.com/forms/d/1tIoAKDIheBvcDnq4yxwhNClhudjIjIMvd0ZLw04PrxQ/viewform?usp=send_form    
 
 13. For each team, your team must evaluate the
    teamwork and individual contributions of the team members on both their spec and implementation.
-   For each team member, you must fill out the contribution assessment form provided to you.
    
-14. During the "teamwork and contribution evaluation" class, you must evaluate your own
-    personal performance on the spec and implementation using the form provided to you.
     
 ## Assignment Grading
 
