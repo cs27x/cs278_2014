@@ -1,1 +1,1 @@
-# See the Whammy repo
+# See the Whammy repo https://github.com/cs27x/Whammy1
