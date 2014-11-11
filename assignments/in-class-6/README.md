@@ -27,25 +27,6 @@ to demonstrate the OWASP Top 10 security flaws. Once you are able to identify
 the OWASP Top 10 flaws in this code base, you will have the core knowledge 
 needed to identify flaws in much more sophisticated cloud services.
 
-The application that you will be analyzing is vulnerable to 6 of the 10
-OWASP flaws that you will study.
-
-## Instructions
-
-First, clone this Git repository and import it into Eclipse as a Gradle
-project.
-
-To run the application:
-
-Right-click on the LocalApplication class in the org.magnum.dataup
-package, Run As->Java Application
-
-To stop the application:
-
-Open the Eclipse Debug Perspective (Window->Open Perspective->Debug), right-click on
-the application in the "Debug" view (if it isn't open, Window->Show View->Debug) and
-select Terminate
-
 ## Part 1 - Learning the Top 10 Web Application Vulnerabilities
 
 In the first part of the exercise, you will have 20 minutes to study the
@@ -83,6 +64,25 @@ as follows:
      each team identifies a vulnerability in each category
    6. The members of the winning team will receive a 20pt bonus on one quiz
 
+
+## Sample Application Overview
+
+First, clone this Git repository and import it into Eclipse as a Gradle
+project.
+
+To run the application:
+
+Right-click on the LocalApplication class in the org.magnum.dataup
+package, Run As->Java Application
+
+To stop the application:
+
+Open the Eclipse Debug Perspective (Window->Open Perspective->Debug), right-click on
+the application in the "Debug" view (if it isn't open, Window->Show View->Debug) and
+select Terminate
+
+The application that you will be analyzing is vulnerable to 6 of the 10
+OWASP flaws that you will study.
 
 The HTTP API that is provided by the sample application is as follows:
  
