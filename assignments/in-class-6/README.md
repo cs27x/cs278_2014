@@ -56,10 +56,13 @@ https://www.owasp.org/index.php/Top_10_2013-Top_10
 Each team member should choose 2-3 vulnerabilities, learn how they are exploited,
 and how they can be avoided. The team members should then take turns presenting
 the vulnerabilities that they studied to the other team members and discussing 
-them. When each team feels that it is ready, each team member should take the 
-web application vulnerability quiz. The team's score on this part will be based on
-the average of all team members' scores. Team members are NOT allowed to collaborate
-in any way while taking the quiz.
+them. When each team feels that it is ready, the team should call the instructor
+over to ask them 5 questions about the top 10 vulnerabilities. 
+
+Finally, after the questions are answered, each team member should fill out the
+software & security habits survey:
+
+http://goo.gl/forms/46KBIECVCS
 
 ## Part 2 - Attacker - Defender
 
@@ -67,17 +70,16 @@ For the second part of the exercise, the teams will compete to identify and prop
 fixes for the security flaws in the sample application. The rules of the game are
 as follows:
 
-   1. Each team starts with N points, where N = average of team member quiz scores
-   2. A team can identify a vulnerability by raising their hands and describing the
+   1. A team can identify a vulnerability by raising their hands and describing the
      vulnerability to an instructor
-   3. Once a team has identified a vulnerability, they receive 1 point per minute until
+   2. Once a team has identified a vulnerability, they receive 1 point per minute until
      all other teams have identified that vulnerability
-   4. Teams are allowed to disclose vulnerabilities to other teams, but the team that 
+   3. Teams are allowed to disclose vulnerabilities to other teams, but the team that 
      the vulnerability is disclosed to must be able to describe and discuss the vulnerability
      with the instructor independently of the team that disclosed the vulnerability
-   5. A team receives a bonus of 100 points for identifying 6 of the 10 OWASP flaws in
+   4. A team receives a bonus of 100 points for identifying 6 of the 10 OWASP flaws in
      the application
-   6. A vulnerability dashboard will be kept on the board that will show the time when 
+   5. A vulnerability dashboard will be kept on the board that will show the time when 
      each team identifies a vulnerability in each category
 
 
