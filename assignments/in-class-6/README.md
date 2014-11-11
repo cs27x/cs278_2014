@@ -81,6 +81,7 @@ as follows:
      the application
    5. A vulnerability dashboard will be kept on the board that will show the time when 
      each team identifies a vulnerability in each category
+   6. The members of the winning team will receive a 20pt bonus on one quiz
 
 
 The HTTP API that is provided by the sample application is as follows:
